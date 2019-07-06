@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.sgaraba.blog",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "com.sgaraba.blog",
+    "packageFolder": "com/sgaraba/blog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2IyODEwMGJhNTM3ODM5YmU4MWFlMDQ1MjI5NWQyMDNmZDY2ZjdjOTIyYzc0MDhkOWE0YmNkMGY5NzQzZGI2MmUwZWFkODU3MmNjZTNiMzFlZjAxNTg3NGI5ZTY4MjM1OGI5ZTJhNzE5ZDlhNGE2NGE0ZjAyOGNhOGFhMDEyMjg=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "ro", "ru"]
+  }
+}
